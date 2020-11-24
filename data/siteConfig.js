@@ -93,8 +93,8 @@ module.exports = {
     github: "https://github.com/stevenleesf",
     email: "lee.soonfatt98@gmail.com"
   },
-  siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
-  pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
+  siteUrl: 'https://boring-perlman-112f66.netlify.app/',
+  pathPrefix: '/Gatsby-Demo', // Note: it must *not* have a trailing slash.
   siteCover: '/images/back.jpg',
   googleAnalyticsId: null,
   background_color: '#ffffff',
